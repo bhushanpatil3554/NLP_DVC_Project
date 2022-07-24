@@ -1,6 +1,6 @@
-# DVC_Mkdocs_Templates
+# NLP_DVC_Project
 
-DVC project template
+NLP DVC project template
 
 ## STEPS -
 
